@@ -1,0 +1,13 @@
+/.env
+/.htaccess
+/composer.json
+/extension (edit php.ini at apache config).txt
+/LICENSE
+/phpunit.xml.dist
+/preload.php
+/public
+/README.md
+/spark
+/system
+/tests
+/writable
